@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm JolTheGreat!
 
-Hi there! I'm JolTheGreat, a passionate Japanese student interested in exploring the latest technologies and building exciting projects. I'm particularly fascinated by Web3 and the exciting opportunities it offers.
+Hi there! I'm JolTheGreat, a passionate Japanese student interested in exploring the latest technologies and building exciting projects. I'm particularly fascinated by robotics and the exciting opportunities it offers.
 
 ## About Me
 
 - 🇯🇵 Japanese-based with experience living in Tokyo and London
 - 💻 Can code in Java, Python, and some JavaScript
-- 🌐 Currently focused on building decentralized autonomous organizations (DAOs), NFTs, and other Web3 projects
+- 🌐 Currently focused on building mobile applications
 - 🔭 Always looking for new and interesting projects to work on
 
 ## Projects
