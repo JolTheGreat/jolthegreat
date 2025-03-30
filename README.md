@@ -13,8 +13,8 @@ Hi there! I'm JolTheGreat, a passionate Japanese student interested in exploring
 
 Here are some of the projects I've worked on/currently working on:
 
-[https://chrome.google.com/webstore/detail/youtube-dislike-extension/ibhbkdinchlcilnfgacoigepkabeknpi](YouTube Dislike Extension) - An extension which allows you to dislike YouTube videos.
-[https://vectormaths.netlify.app](Vector Maths) - A program that uses AI to do additions and subtractions with words. Currently fixing it 
+[https://chrome.google.com/webstore/detail/youtube-dislike-extension/ibhbkdinchlcilnfgacoigepkabeknpi](YouTube Dislike Extension) - An extension which allows you to dislike YouTube videos. Current out of service.
+[https://vectormaths.netlify.app](Vector Maths) - A program that uses AI to do additions and subtractions with words. Currently out of service
 
 ## Contact Me
 
